@@ -1,0 +1,1000 @@
+<tmx version="1.4">
+  <header
+    o-tmf="PlainText"
+    creationtool="tmxutil"
+    creationtoolversion="1.1"
+    datatype="PlainText"
+    segtype="sentence"
+    o-encoding="utf-8"
+    creationdate="20210917T185933">
+  </header>
+  <body>
+    <tu tuid="0" datatype="Text">
+      <prop type="bifixer-hash">000000f881d7ad0f</prop>
+      <prop type="bifixer-rank">97.11</prop>
+      <prop type="ratio">1.253</prop>
+      <prop type="score-bicleaner">0.645</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">B41J  19/00        20060101ALI20130424BHEP</prop>
+        <prop type="ipc">B41J  19/20        20060101AFI20130424BHEP</prop>
+        <prop type="ipc-group">B41</prop>
+        <prop type="ipc-group">IV</prop>
+        <prop type="source-document">EP-2477820-B1</prop>
+        <prop type="tokenCount">14</prop>
+        <seg>Gleichfalls kann damit aber auch eine einwandfreie Längsführung entlang der Führungsbahn erzielt werden.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-08925394-B2</prop>
+        <prop type="tokenCount">15</prop>
+        <seg>Similarly, a perfect longitudinal guide along the guide track can also be achieved.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1" datatype="Text">
+      <prop type="bifixer-hash">0000034a5343ba33</prop>
+      <prop type="bifixer-rank">90.3</prop>
+      <prop type="ratio">1.069</prop>
+      <prop type="score-bicleaner">0.743</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">A61K  38/16        20060101ALI20071005BHEP</prop>
+        <prop type="ipc">C07K  14/33        20060101AFI20071005BHEP</prop>
+        <prop type="ipc-group">A61K</prop>
+        <prop type="ipc-group">C</prop>
+        <prop type="ipc-group">III</prop>
+        <prop type="source-document">EP-1994048-B1</prop>
+        <prop type="tokenCount">15</prop>
+        <seg>Beispiel 2: Klonierung und Expression von Botulinum-Neurotoxin Typ B (BoNT/B)</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-08298550-B2</prop>
+        <prop type="tokenCount">15</prop>
+        <seg>Example 2 Cloning and Expression of Botulinum Neurotoxin Type B (BoNT/B)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2" datatype="Text">
+      <prop type="bifixer-hash">000003b5788813e8</prop>
+      <prop type="bifixer-rank">95.12</prop>
+      <prop type="ratio">0.931</prop>
+      <prop type="score-bicleaner">0.838</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">5A 01N  43/82   B</prop>
+        <prop type="ipc">5A 61K  31/41   B</prop>
+        <prop type="ipc">5C 07D 271/06   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0492249-A1</prop>
+        <prop type="tokenCount">47</prop>
+        <seg>Die Anwendung der Wirkstoffe erfolgt direkt oder in Form von geeigneten Zubereitungen enteral, parenteral, dermal, nasal, durch Behandlung der Umgebung oder mit Hilfe wirkstoffhaltiger Formkörper wie z.B. Streifen, Platten Bänder, Halsbänder, Ohrmarken, Gliedmaßenbänder, Markierungsvorrichtungen.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-05371231</prop>
+        <prop type="tokenCount">59</prop>
+        <seg>The active compounds are administered, directly or in the form of suitable preparations, enterally, parenterally, dermally, nasally, by treatment of the environment or with the aid of active-compound-containing shaped articles such as, for example, strips, plates, bands, collars, ear tags, limb bands, marking devices.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3" datatype="Text">
+      <prop type="bifixer-hash">000004b24c494fdb</prop>
+      <prop type="bifixer-rank">95.38</prop>
+      <prop type="ratio">1.128</prop>
+      <prop type="score-bicleaner">0.583</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">4G 03F   7/004  B</prop>
+        <prop type="ipc">4G 03F   7/027  A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0280979-A2</prop>
+        <prop type="tokenCount">57</prop>
+        <seg>Bevorzugt ist außerdem, zur Herstellung des als polymeres Bindemittel verwendeten Copolymerisats ein Makromeres mit einem mittleren Molekulargewicht (Gewichtsmittel) von 1000 bis 100 000 einzusetzen, und daß in dem als polymeres Bindemittel eingesetzten Copolymerisat mit mehrphasiger Morphologie die kontinuierliche Phase eine Glastemperatur unterhalb Raumtemperatur und die dispergierte Phase eine Glastemperatur oberhalb Raumtemperatur aufweist.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-05061602</prop>
+        <prop type="tokenCount">64</prop>
+        <seg>It is also preferable to use for the copolymer used as the polymeric binder a macromer having an average molecular weight (weight average) from 1,000 to 100,000 and that in the multiphase morphology copolymer used as polymeric binder the continuous phase have a glass transition temperature below room temperature and the dispersed phase have a glass transition temperature above room temperature.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4" datatype="Text">
+      <prop type="bifixer-hash">000005b77214717c</prop>
+      <prop type="bifixer-rank">86.32</prop>
+      <prop type="ratio">1.000</prop>
+      <prop type="score-bicleaner">0.590</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">B26D  11/00        20060101AFI20050408BHEP</prop>
+        <prop type="ipc-group">B26D</prop>
+        <prop type="ipc-group">IV</prop>
+        <prop type="source-document">EP-1652639-A1</prop>
+        <prop type="tokenCount">25</prop>
+        <seg>Der erste Querschnitt K E2 jenseits der Verbindungsschnitte Q 1, Q 2 wird am Ende der Längsschnitte L 11 und L 41 angebracht.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-07367251-B2</prop>
+        <prop type="tokenCount">30</prop>
+        <seg>The first crosscut K E2 beyond the connecting cuts Q 1, Q 2 is being made at the end of the longitudinal cuts L 11 and L 41 .</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5" datatype="Text">
+      <prop type="bifixer-hash">0000061fcc0a9e5f</prop>
+      <prop type="bifixer-rank">95.79</prop>
+      <prop type="ratio">1.086</prop>
+      <prop type="score-bicleaner">0.698</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">5F 26B  13/10   A</prop>
+        <prop type="ipc">5F 26B  21/12   B</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0341646-B1</prop>
+        <prop type="tokenCount">27</prop>
+        <seg>Die erhaltene fotoempfindliche Schicht der Aluminiumbahn 4, die anschließend zu Druckplatten konfektioniert wird, ist sehr gleichmäßig in ihrer Dicke und in ihrem optischen Erscheinungsbild.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-04999927</prop>
+        <prop type="tokenCount">32</prop>
+        <seg>The resulting photo-sensitive layer of the aluminum web 4, which is then cut and converted into printing plates, is very uniform in its thickness and in its visual appearance.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6" datatype="Text">
+      <prop type="bifixer-hash">000008632309fe8b</prop>
+      <prop type="bifixer-rank">89.2</prop>
+      <prop type="info">different numbers in TUVs</prop>
+      <prop type="ratio">0.845</prop>
+      <prop type="score-bicleaner">0.463</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">4C 08G  65/38   B</prop>
+        <prop type="ipc">4C 08G  79/02   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0085377-B1</prop>
+        <prop type="tokenCount">38</prop>
+        <seg>Unter analogen Reaktionsbedingungen wie in Beispiel 1 bis 6 wurden 0,05 Mol Phenolphthalin mit 0,05 Mol Di-(para-fluorphenyl)-phenylphosphinoxid in Gegenwart von 0,053 Mol Kaliumcarbonat umgesetzt (5 Stunden bei 180-190 °C).</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-04492805</prop>
+        <prop type="tokenCount">49</prop>
+        <seg>mol of di(para-fluorophenyl)phenylphosphine oxide was reacted with 0.1 mol of 4,4'-dihydroxy-diphenylsulfone in the presence of 0.105 mol of potassium carbonate under the preparation conditions used in Examples 1 to 6 (10 hours reaction time at 180° C. to 200° C.).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7" datatype="Text">
+      <prop type="bifixer-hash">000009c056f4fd5a</prop>
+      <prop type="bifixer-rank">96.16</prop>
+      <prop type="ratio">0.947</prop>
+      <prop type="score-bicleaner">0.667</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">A63C   5/00        20060101ALI20051128BHEP</prop>
+        <prop type="ipc">A63C   9/00        20060101AFI20051128BHEP</prop>
+        <prop type="ipc-group">A63</prop>
+        <prop type="ipc-group">V</prop>
+        <prop type="source-document">EP-1674138-A1</prop>
+        <prop type="tokenCount">12</prop>
+        <seg>Figur 8 zeigt eine Ausführungsvariante, die im Hohlkörperblasverfahren hergestellt wurde.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-07357405-B2</prop>
+        <prop type="tokenCount">17</prop>
+        <seg>FIG. 8 shows a variant embodiment, which has been manufactured using the blow-moulding method.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8" datatype="Text">
+      <prop type="bifixer-hash">00000b4e9e4f4dde</prop>
+      <prop type="bifixer-rank">92.87</prop>
+      <prop type="ratio">1.085</prop>
+      <prop type="score-bicleaner">0.400</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">C12M   1/00        20060101ALI20010131BHEP</prop>
+        <prop type="ipc">C12M   1/08        20060101ALI20010131BHEP</prop>
+        <prop type="ipc">C12M   3/00        20060101AFI20010131BHEP</prop>
+        <prop type="ipc">C12M   3/06        20060101ALI20010131BHEP</prop>
+        <prop type="ipc-group">C</prop>
+        <prop type="ipc-group">III</prop>
+        <prop type="source-document">EP-1087010-B1</prop>
+        <prop type="tokenCount">34</prop>
+        <seg>Ist der Durchmesser der Austrittsfläche 66e beispielsweise doppelt so gross wie der Durchmesser der Eintrittsfläche 66d, so entspricht die Geschwindigkeit an der Austrittsfläche 66e einem Viertel der Geschwindigkeit an der Eintrittsfläche 66d.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-06670169-B1</prop>
+        <prop type="tokenCount">47</prop>
+        <seg>If the diameter of the outlet surface 66 e is for example twice as large as the diameter of the inlet surface 66 d, then the speed at the outlet surface 66 e corresponds to one-fourth of the speed at the inlet surface 66 d .</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9" datatype="Text">
+      <prop type="bifixer-hash">00000b9050409e61</prop>
+      <prop type="bifixer-rank">91.71</prop>
+      <prop type="ratio">1.136</prop>
+      <prop type="score-bicleaner">0.547</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">7H 02B   1/38   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0939991-B1</prop>
+        <prop type="tokenCount">9</prop>
+        <seg>Das Distanzelement 47 weist eine Verbindungselementaufnahme 50 auf.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-06211466-B1</prop>
+        <prop type="tokenCount">10</prop>
+        <seg>The spacer 47 contains a connecting element receptacle 50 .</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10" datatype="Text">
+      <prop type="bifixer-hash">00001036182cf685</prop>
+      <prop type="bifixer-rank">97.34</prop>
+      <prop type="ratio">0.811</prop>
+      <prop type="score-bicleaner">0.355</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">A61B   5/085       20060101AFI20090609BHEP</prop>
+        <prop type="ipc-group">A61</prop>
+        <prop type="ipc-group">II</prop>
+        <prop type="source-document">EP-2091429-B1</prop>
+        <prop type="tokenCount">11</prop>
+        <seg>Vorrichtung zum automatisierten Ermitteln eines auf einen Patienten abgestimmten PEEP,</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-08528553-B2</prop>
+        <prop type="tokenCount">15</prop>
+        <seg>device for automatically determining a positive end-expiratory pressure adjusted to a patient, comprising:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11" datatype="Text">
+      <prop type="bifixer-hash">000013e535031e5d</prop>
+      <prop type="bifixer-rank">97.09</prop>
+      <prop type="ratio">1.000</prop>
+      <prop type="score-bicleaner">0.647</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">B65G  19/10        20060101AFI20071106BHEP</prop>
+        <prop type="ipc">B65G  19/24        20060101ALI20071106BHEP</prop>
+        <prop type="ipc-group">B65G</prop>
+        <prop type="ipc-group">IV</prop>
+        <prop type="source-document">EP-1999044-B1</prop>
+        <prop type="tokenCount">34</prop>
+        <seg>Insbesondere vorteilhaft ist, wenn in jede Vertiefung eine Einführschräge für ein Lösewerkzeug mündet, um auch nach zahlreichen Betriebsstunden eine ggf. festgerostete Mutter von dem Schaft der Befestigungsschraube lösen zu können.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-07775342-B2</prop>
+        <prop type="tokenCount">41</prop>
+        <seg>It is also advantageous if an introduction inclination for a detachment tool opens into each recess in order to be able to detach a potentially rusted-tight nut from the shaft of the fixing screw even after many hours of operation.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12" datatype="Text">
+      <prop type="bifixer-hash">0000140645eacb07</prop>
+      <prop type="bifixer-rank">97.55</prop>
+      <prop type="ratio">0.966</prop>
+      <prop type="score-bicleaner">0.750</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">7C 07C 311/21   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-1095015-B1</prop>
+        <prop type="tokenCount">39</prop>
+        <seg>Heterocyclyl steht bevorzugt für Reste, die sich von gesättigten Heterocyclen ableiten, insbesondere für Reste, die sich vom Pyrrolidin, Piperidin, von N-Alkylpiperazinen, vom Morpholin, von Dialkylmorpholinen, vom Thiomorpholin oder Tetrahydrofuran ableiten.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-06548547-B1</prop>
+        <prop type="tokenCount">36</prop>
+        <seg>Heterocyclyl preferably represents radicals which are derived from saturated heterocycles, in particular radicals which are derived from pyrrolidine, piperidine, from N-alkylpiperazines, from morpholine, from dialkylmorpholines, from thiomorpholine or tetrahydrofuran.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13" datatype="Text">
+      <prop type="bifixer-hash">000014be6cb62755</prop>
+      <prop type="bifixer-rank">97.58</prop>
+      <prop type="ratio">1.062</prop>
+      <prop type="score-bicleaner">0.560</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">B22D  13/02        20060101ALI20181120BHEP</prop>
+        <prop type="ipc">B22D  13/04        20060101ALI20181120BHEP</prop>
+        <prop type="ipc">B22D  13/10        20060101ALI20181120BHEP</prop>
+        <prop type="ipc">B22D  21/00        20060101ALI20181120BHEP</prop>
+        <prop type="ipc">C22C  14/00        20060101ALI20181120BHEP</prop>
+        <prop type="ipc">C22F   1/18        20060101AFI20181120BHEP</prop>
+        <prop type="ipc-group">B22</prop>
+        <prop type="ipc-group">C</prop>
+        <prop type="ipc-group">III</prop>
+        <prop type="source-document">EP-3109337-B1</prop>
+        <prop type="tokenCount">16</prop>
+        <seg>1 eine Darstellung des horizontalen Schleudergussverfahrens zur Herstellung von kegelförmigen oder zylinderförmigen TiAl - Gusshalbzeugen,</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-10385434-B2</prop>
+        <prop type="tokenCount">19</prop>
+        <seg>1 a depiction of the horizontal centrifugal casting process for producing cone-shaped or cylindrical semifinished TiAl cast parts,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14" datatype="Text">
+      <prop type="bifixer-hash">0000159f7cf7c163</prop>
+      <prop type="bifixer-rank">97.18</prop>
+      <prop type="ratio">0.961</prop>
+      <prop type="score-bicleaner">0.745</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">3C 07C 119/042  B</prop>
+        <prop type="ipc">3C 08G  18/18   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0017998-B1</prop>
+        <prop type="tokenCount">47</prop>
+        <seg>Für die Herstellung des Diisocyanatfreien Isocyanurats aus dem Diisocyanat bedeutet das, daß man das Diisocyanat bis zu einem Isocyanuratgehalt, der die Förderung des Reaktionsgemisches im flüssigen Zustand noch zuläßt, trimerisiert und in einem nachfolgenden Verfahrensschritt das freie Diisocyanat im Vakuum durch Dünnschichtdestillation abtrennt.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-04454317</prop>
+        <prop type="tokenCount">57</prop>
+        <seg>In practice, the second process has prevailed. Accordingly, in the production of diisocyanate-free isocyanurate from the diisocyanate, the diisocyanate is trimerized to an isocyanurate content which still permits handling the reaction mixture in the liquid state, and the free diisocyanate is separated in a subsequent step under vacuum by thin-film distillation.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15" datatype="Text">
+      <prop type="bifixer-hash">000015cb632c7e7e</prop>
+      <prop type="bifixer-rank">91.23</prop>
+      <prop type="ratio">1.000</prop>
+      <prop type="score-bicleaner">0.565</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">5B 23B  51/10   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0446767-A1</prop>
+        <prop type="tokenCount">17</prop>
+        <seg>Somit stützt sich der Bolzen der Sicherungsschraube 42 an der einen Stirnseite des Kippbolzens 41 ab.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-05135338</prop>
+        <prop type="tokenCount">24</prop>
+        <seg>As a result, the bolt of the safety screw 42 is supported on the one front side of the swing bolt 41.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16" datatype="Text">
+      <prop type="bifixer-hash">0000163dbd77c9a8</prop>
+      <prop type="bifixer-rank">91.45</prop>
+      <prop type="info">different numbers in TUVs</prop>
+      <prop type="ratio">0.876</prop>
+      <prop type="score-bicleaner">0.562</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">D06F  31/00        20060101AFI20120625BHEP</prop>
+        <prop type="ipc">D06F  95/00        20060101ALI20120625BHEP</prop>
+        <prop type="ipc-group">D06F</prop>
+        <prop type="ipc-group">V</prop>
+        <prop type="source-document">EP-2503042-A2</prop>
+        <prop type="tokenCount">37</prop>
+        <seg>Über das zu dem jeweiligen Trockner 14 weisende Ende 35 des Förderbands 30 des Hubfahrbands 20 wird nun über die Beladeseite 19 der jeweilige Trockner 14 mit der allein in der Entwässerungspresse 12 entwässerten Wäsche beladen.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-09181648-B2</prop>
+        <prop type="tokenCount">51</prop>
+        <seg>The respective dryer 14, via the loading side 19, is then loaded with the laundry from which water has been removed solely in the water-removal press 12 via that end 35 of the conveyor belt 30 of the lift belt conveyor 20 which faces the respective dryer 14 .</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17" datatype="Text">
+      <prop type="bifixer-hash">0000174abec69b9e</prop>
+      <prop type="bifixer-rank">88.95</prop>
+      <prop type="ratio">1.015</prop>
+      <prop type="score-bicleaner">0.760</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">7C 12N   9/02   A</prop>
+        <prop type="ipc">7C 12Q   1/26   B</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-1555313-A2</prop>
+        <prop type="tokenCount">31</prop>
+        <seg>Es wird vermutet, daß sie, analog zu anderen bleichenden Herbiziden, die Phytoendesaturase hemmen (Soeda, T. und Uchida, T. (1987) Pestic.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-06555714-B1</prop>
+        <prop type="tokenCount">30</prop>
+        <seg>It is assumed that, analogously to other bleaching herbicides, they inhibit phytoene desaturase (Soeda, T. and Uchida, T. (1987) Pestic.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18" datatype="Text">
+      <prop type="bifixer-hash">00001755dd79dddc</prop>
+      <prop type="bifixer-rank">94.47</prop>
+      <prop type="ratio">1.167</prop>
+      <prop type="score-bicleaner">0.682</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">F16L  55/11        20060101ALI20120327BHEP</prop>
+        <prop type="ipc">F16L  55/128       20060101ALI20120327BHEP</prop>
+        <prop type="ipc">F17D   5/00        20060101ALI20120327BHEP</prop>
+        <prop type="ipc">F17D   5/06        20060101AFI20120327BHEP</prop>
+        <prop type="ipc-group">F16</prop>
+        <prop type="ipc-group">F17</prop>
+        <prop type="ipc-group">IV</prop>
+        <prop type="source-document">EP-2373916-B1</prop>
+        <prop type="tokenCount">36</prop>
+        <seg>Vorzugsweise weist die Sicherheitsvorrichtung einen in einer Führung bewegbaren Schieber auf, der eine Mehrzahl von Funktionen übernehmen kann, wobei an wenigstens einer Position des Schiebers entlang der Führung ein Signal erzeugt werden kann.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-08742942-B2</prop>
+        <prop type="tokenCount">44</prop>
+        <seg>Preferably, the safety device has a slide that can be moved in a guide, which slide can take on a plurality of functions, wherein a signal can be produced at at least one position of the slide along the guide.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19" datatype="Text">
+      <prop type="bifixer-hash">0000197ba91a1837</prop>
+      <prop type="bifixer-rank">93.14</prop>
+      <prop type="info">different numbers in TUVs</prop>
+      <prop type="ratio">1.395</prop>
+      <prop type="score-bicleaner">0.328</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">7B 60R  21/20   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-1403150-A2</prop>
+        <prop type="tokenCount">30</prop>
+        <seg>Die Erfindung bezieht sich auf eine Insassenschutzeinrichtung (10) mit einem aufblasbaren Gassack (50) zum Schutz eines im Fonds eines Fahrzeugs (25) befindlichen Fahrzeuginsassen.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-07134683-B2</prop>
+        <prop type="tokenCount">21</prop>
+        <seg>An occupant protection device having an inflatable airbag for protecting a vehicle occupant in the rear compartment of a vehicle.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20" datatype="Text">
+      <prop type="bifixer-hash">000019961a20cd52</prop>
+      <prop type="bifixer-rank">91.71</prop>
+      <prop type="info">different numbers in TUVs</prop>
+      <prop type="ratio">0.881</prop>
+      <prop type="score-bicleaner">0.525</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">3A 61B   6/06   B</prop>
+        <prop type="ipc">3G 21K   1/02   A</prop>
+        <prop type="ipc">3H 05G   1/02   B</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0074596-A1</prop>
+        <prop type="tokenCount">36</prop>
+        <seg>Im Innern der Röntgenröhre 2 ist ein um eine Achse 3 drehbarer Anodenteller 4 mit zwei unterschiedlich zur Tellerebene geneigten Brennfleckbahnen 5, 6 und zwei jeweils einer Brennfleckbahn zugeordneten Kathoden 7, 8 eingezeichnet.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-04464778</prop>
+        <prop type="tokenCount">54</prop>
+        <seg>Indicated in the inside of the X-ray tube 2 are an anode dish 4 rotatably mounted by means of a shaft 3 and having two focal point paths 5, 6 differently inclined relative to the dish plane, and two cathodes 7, 8 each allocated to a respective focal point path.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21" datatype="Text">
+      <prop type="bifixer-hash">00001a5af51dbb7f</prop>
+      <prop type="bifixer-rank">108.66</prop>
+      <prop type="ratio">1.044</prop>
+      <prop type="score-bicleaner">0.613</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">4C 08C  19/00   B</prop>
+        <prop type="ipc">4C 08F   8/00   A</prop>
+        <prop type="ipc">4G 03F   7/00   B</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0226153-A2</prop>
+        <prop type="tokenCount">44</prop>
+        <seg>Der Radikalstarter kann zusammen mit A′ und Maleinsäureanhydrid in einer Portion vorgelegt werden; er kann aber auch erst nach Erreichen der Reaktionstemperatur auf einmal zugegeben werden; oder er kann während der gesamten Reaktionszeit periodisch in kleinen Portionen oder kontinuierlich zudosiert werden.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-04916045</prop>
+        <prop type="tokenCount">55</prop>
+        <seg>The free radical initiator can be initially charged together with A' and maleic anhydride in one portion; however, it may be added all at once after the reaction temperature has been reached, or it may be metered in periodically a little at a time or continuously over the entire reaction time.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22" datatype="Text">
+      <prop type="bifixer-hash">00001aa8c2cc5b92</prop>
+      <prop type="bifixer-rank">94.25</prop>
+      <prop type="ratio">1.104</prop>
+      <prop type="score-bicleaner">0.815</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">B32B   1/08        20060101ALI20170329BHEP</prop>
+        <prop type="ipc">B32B  27/08        20060101AFI20170329BHEP</prop>
+        <prop type="ipc">B32B  27/34        20060101ALI20170329BHEP</prop>
+        <prop type="ipc">C08G  69/00        20060101ALI20170329BHEP</prop>
+        <prop type="ipc">C08L  77/00        20060101ALI20170329BHEP</prop>
+        <prop type="ipc-group">B32</prop>
+        <prop type="ipc-group">C</prop>
+        <prop type="ipc-group">III</prop>
+        <prop type="source-document">EP-3069873-B1</prop>
+        <prop type="tokenCount">55</prop>
+        <seg>Der erfindungsgemäße Mehrschichtverbund kann darüber hinaus weitere Schichten enthalten, beispielsweise eine weitere Schicht I, eine weitere Schicht II, eine Schicht aus einer Formmasse auf Basis eines aliphatischen Polyamids, eine Schicht aus einer Formmasse auf Basis eines Fluorpolymers oder eine Schicht aus einer Formmasse auf Basis eines Ethylen-Vinylalkohol-Copolymers (EVOH).</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-10464296-B2</prop>
+        <prop type="tokenCount">64</prop>
+        <seg>The multilayer composite according to the invention may moreover comprise further layers, for example a further layer I, a further layer II, a layer of a moulding compound based on an aliphatic polyamide, a layer of a moulding compound based on a fluoropolymer or a layer of a moulding compound based on an ethylene-vinyl alcohol copolymer (EVOH).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23" datatype="Text">
+      <prop type="bifixer-hash">00001c1b7d6d42aa</prop>
+      <prop type="bifixer-rank">92.45</prop>
+      <prop type="ratio">0.525</prop>
+      <prop type="score-bicleaner">0.265</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">5B 65D  47/20   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0301054-B1</prop>
+        <prop type="tokenCount">7</prop>
+        <seg>6 zeigt den Verschluß gemäß Fig.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-04982855</prop>
+        <prop type="tokenCount">15</prop>
+        <seg>6 is a side view partly in section of the closure cap of FIG.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24" datatype="Text">
+      <prop type="bifixer-hash">00001d78a287e6e7</prop>
+      <prop type="bifixer-rank">138.66</prop>
+      <prop type="ratio">0.949</prop>
+      <prop type="score-bicleaner">0.645</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">A61B  17/22        20060101ALI20071108BHEP</prop>
+        <prop type="ipc">A61B  18/14        20060101AFI20071108BHEP</prop>
+        <prop type="ipc-group">A61</prop>
+        <prop type="ipc-group">II</prop>
+        <prop type="source-document">EP-1567081-B1</prop>
+        <prop type="tokenCount">30</prop>
+        <seg>Daher "knicken" die Spreizstäbe 12 beim Expandieren- bzw. Komprimieren an den dritten Abschnitten 22 und können insgesamt in einem Winkel von bis zu 180° gebogen werden.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-07988662-B2</prop>
+        <prop type="tokenCount">36</prop>
+        <seg>For this reason, the spreader rods 12 “buckle” at the third sections 22 during the expansion or compression, allowing them to be bent in their entirety by an angle of up to 180°.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25" datatype="Text">
+      <prop type="bifixer-hash">000022ac479e2235</prop>
+      <prop type="bifixer-rank">88.87</prop>
+      <prop type="ratio">1.157</prop>
+      <prop type="score-bicleaner">0.532</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">6H 04J   3/14   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0715428-A2</prop>
+        <prop type="tokenCount">22</prop>
+        <seg>Wie bereits erwähnt, gibt die Taktfrequenz T io ein Zeitintervall vor, das z.B. 1,024 s beträgt.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-05917870</prop>
+        <prop type="tokenCount">21</prop>
+        <seg>As mentioned above, the clock frequency Tio defines a time interval, e.g., 1.024 s.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26" datatype="Text">
+      <prop type="bifixer-hash">000022c5a3edf949</prop>
+      <prop type="bifixer-rank">98.62</prop>
+      <prop type="ratio">1.088</prop>
+      <prop type="score-bicleaner">0.667</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">B60J   5/04        20060101ALI20121016BHEP</prop>
+        <prop type="ipc">B60R  13/08        20060101AFI20121016BHEP</prop>
+        <prop type="ipc-group">B60</prop>
+        <prop type="ipc-group">IV</prop>
+        <prop type="source-document">EP-2694332-B1</prop>
+        <prop type="tokenCount">26</prop>
+        <seg>Beispielsweise können hochfrequente Anteile der Schallwelle in gezielter, gewünschter Weise gedämpft werden, während niederfrequente Anteile ohne wesentliche Abschwächung durch den Führungskanal gelangen können.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-09315159-B2</prop>
+        <prop type="tokenCount">30</prop>
+        <seg>For example, high-frequency portions of the sound wave can be damped in a specifically desired manner while low-frequency portions can pass through the guide channel without substantial damping.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27" datatype="Text">
+      <prop type="bifixer-hash">0000234ea2d08d4b</prop>
+      <prop type="bifixer-rank">132.01</prop>
+      <prop type="ratio">1.012</prop>
+      <prop type="score-bicleaner">0.482</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">C08J   7/04        20060101AFI20100820BHEP</prop>
+        <prop type="ipc">C23F  11/12        20060101ALI20100820BHEP</prop>
+        <prop type="ipc">C23F  11/173       20060101ALI20100820BHEP</prop>
+        <prop type="ipc-group">C</prop>
+        <prop type="ipc-group">C08J</prop>
+        <prop type="ipc-group">III</prop>
+        <prop type="ipc-group">IV</prop>
+        <prop type="source-document">EP-2391672-B1</prop>
+        <prop type="tokenCount">58</prop>
+        <seg>Insbesondere ist vorgesehen, dass die Klebmasse nach dem Aufschmelzen bis zu -5 °C, vorzugsweise bis zu -15 °C, weiter vorzugsweise bis zu -30 °C temperaturbeständig ist. Zudem sollte die Klebmasse nach dem Aufschmelzen auch bis zu 70 °C, vorzugsweise bis zu 80 °C, weiter vorzugsweise bis zu 100 °C temperaturbeständig sein.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-08574392-B2</prop>
+        <prop type="tokenCount">66</prop>
+        <seg>Provision is made in particular for the adhesive, after melting has taken place, to be temperature-resistant to −5° C., preferably to −15° C., more preferably to −30° C. Moreover, the adhesive after melting has taken place ought also to be temperature-resistant to 70° C., preferably to 80° C., more preferably to 100° C.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28" datatype="Text">
+      <prop type="bifixer-hash">000023a46ec3a688</prop>
+      <prop type="bifixer-rank">93.92</prop>
+      <prop type="ratio">1.677</prop>
+      <prop type="score-bicleaner">0.610</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">7G 02B   1/04   B</prop>
+        <prop type="ipc">7G 02B   1/10   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-1063540-A2</prop>
+        <prop type="tokenCount">19</prop>
+        <seg>Verfahren gemäß Anspruch 8, dadurch gekennzeichnet, daß man die Beschichtung durch Plasma-CVD-Verfahren, insbesondere Plasma-Impuls-CVD-Verfahren aufbringt.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-06379004-B1</prop>
+        <prop type="tokenCount">18</prop>
+        <seg>A process according to claim 8, wherein the coating is applied by plasma pulse CVD processes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29" datatype="Text">
+      <prop type="bifixer-hash">000024dcc28f2481</prop>
+      <prop type="bifixer-rank">96.81</prop>
+      <prop type="ratio">1.358</prop>
+      <prop type="score-bicleaner">0.715</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">B29C  45/16        20060101ALI20051212BHEP</prop>
+        <prop type="ipc">B60H   1/00        20060101ALI20051212BHEP</prop>
+        <prop type="ipc">B60K  15/04        20060101AFI20051212BHEP</prop>
+        <prop type="ipc-group">B29</prop>
+        <prop type="ipc-group">B60</prop>
+        <prop type="ipc-group">IV</prop>
+        <prop type="source-document">EP-1632380-A2</prop>
+        <prop type="tokenCount">12</prop>
+        <seg>Unter Umständen kann die Verbindung dann undicht werden oder sich lösen.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-08394472-B2</prop>
+        <prop type="tokenCount">10</prop>
+        <seg>The connection may then become untight or may loosen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30" datatype="Text">
+      <prop type="bifixer-hash">00002564e0933b1d</prop>
+      <prop type="bifixer-rank">94.85</prop>
+      <prop type="ratio">1.191</prop>
+      <prop type="score-bicleaner">0.710</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">C07C 219/06        20060101AFI20120224BHEP</prop>
+        <prop type="ipc">C07C 235/74        20060101ALI20120224BHEP</prop>
+        <prop type="ipc-group">C</prop>
+        <prop type="ipc-group">III</prop>
+        <prop type="source-document">EP-2601171-B1</prop>
+        <prop type="tokenCount">36</prop>
+        <seg>Dies bedeutet, dass keine Überschüsse an Alkylierungsmittel (4) eingesetzt werden müssen, um eine nahezu quantitative Quaternierung zu erreichen, und daher im Endprodukt keine toxischen Alkylierungsmittel (4) enthalten sind.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-08722926-B2</prop>
+        <prop type="tokenCount">38</prop>
+        <seg>As a result, no excesses of alkylating agent (4) have to be used to achieve an almost quantitative quaternization and therefore there are no toxic alkylating agents (4) in the end product.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31" datatype="Text">
+      <prop type="bifixer-hash">000025ddd44c64d7</prop>
+      <prop type="bifixer-rank">97.48</prop>
+      <prop type="ratio">0.944</prop>
+      <prop type="score-bicleaner">0.578</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">5A 61M  11/08   B</prop>
+        <prop type="ipc">5B 65D  47/34   B</prop>
+        <prop type="ipc">5B 65D  83/44   B</prop>
+        <prop type="ipc">5F 16K  21/04   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0516636-B1</prop>
+        <prop type="tokenCount">20</prop>
+        <seg>Durch Veränderung des Verhältnisses zwischen den beiden, den beiden Ventilstellungen zugehörigen Volumina der Druckkammer ist die Hemmkraft justierbar.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-05368201</prop>
+        <prop type="tokenCount">27</prop>
+        <seg>By changing the conditions between two portions of the pressure chamber associated with the two valve positions, it is possible to adjust the restraining force.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32" datatype="Text">
+      <prop type="bifixer-hash">0000263ba91d0a91</prop>
+      <prop type="bifixer-rank">93.71</prop>
+      <prop type="ratio">1.106</prop>
+      <prop type="score-bicleaner">0.660</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">5C 08F   8/44   A</prop>
+        <prop type="ipc">5C 08F 210/02   B</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0349828-A2</prop>
+        <prop type="tokenCount">51</prop>
+        <seg>Dazu wird das Ethylencopolymerisat in den gekühlten, mit Stickstoff überlagerten Einzug des Extruders dosiert und bei Temperaturen von 140-180°C vorzugsweise bei 140-160°C, aufgeschmolzen. In die Schmelze wird die Metallsalzlösung eingepumpt und homogen eingemischt und zum Ionomeren umgesetzt (Reaktionszone = erste Zone).</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-05003001</prop>
+        <prop type="tokenCount">56</prop>
+        <seg>For this purpose, the ethylene copolymer is metered into the cooled extruder feed blanketed with nitrogen and is melted at 140°-180° C., preferably 140°-160° C. The metal salt solution is pumped into the melt, mixed in homogeneously and reacted to give the ionomer (reaction zone=first zone).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33" datatype="Text">
+      <prop type="bifixer-hash">000026cb97bdde2a</prop>
+      <prop type="bifixer-rank">113.96</prop>
+      <prop type="info">different numbers in TUVs</prop>
+      <prop type="ratio">0.991</prop>
+      <prop type="score-bicleaner">0.555</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">5G 01N  33/82   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0378197-A2</prop>
+        <prop type="tokenCount">32</prop>
+        <seg>Dazu kann der Rezeptor R₁ entweder direkt oder über einen Spacer an der Festphase gebunden sein oder aber in löslicher Form vorliegen und erst nach Durchführung der immunologischen Reaktion immobilisiert werden.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-05614394</prop>
+        <prop type="tokenCount">42</prop>
+        <seg>For this receptor R1 can either be directly bound to the solid phase or via a spacer, or else it can be present in a soluble form and not be immobilized until after the immunological reaction has been carried out.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34" datatype="Text">
+      <prop type="bifixer-hash">000027cf96bf606a</prop>
+      <prop type="bifixer-rank">92.64</prop>
+      <prop type="info">different numbers in TUVs</prop>
+      <prop type="ratio">1.588</prop>
+      <prop type="score-bicleaner">0.510</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">7G 06T   9/00   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-1109134-A2</prop>
+        <prop type="tokenCount">15</prop>
+        <seg>Die dekomprimierten Datensegmente werden dann durch den Kompressions-Decoder 22 in dem Speicher 12 abgelegt.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-07203341-B2</prop>
+        <prop type="tokenCount">12</prop>
+        <seg>The decompressed data segments are then written into the memory 12 .</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35" datatype="Text">
+      <prop type="bifixer-hash">00002807baee4da8</prop>
+      <prop type="bifixer-rank">97.5</prop>
+      <prop type="ratio">0.926</prop>
+      <prop type="score-bicleaner">0.537</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">A61B   1/005       20060101AFI20060324BHEP</prop>
+        <prop type="ipc">A61M  25/01        20060101ALI20060324BHEP</prop>
+        <prop type="ipc-group">A61</prop>
+        <prop type="ipc-group">II</prop>
+        <prop type="source-document">EP-1669018-A1</prop>
+        <prop type="tokenCount">11</prop>
+        <seg>1 zeigt eine Perspektivenansicht des distalen Endstücks des erfindungsgemäßen Endoskops;</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-07794390-B2</prop>
+        <prop type="tokenCount">18</prop>
+        <seg>1 shows a perspective view of the distal end piece of the endoscope according to the invention;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36" datatype="Text">
+      <prop type="bifixer-hash">0000285b8ba769bf</prop>
+      <prop type="bifixer-rank">95.85</prop>
+      <prop type="ratio">1.119</prop>
+      <prop type="score-bicleaner">0.835</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">F28D   7/00        20060101ALI20170131BHEP</prop>
+        <prop type="ipc">F28D   7/16        20060101ALI20170131BHEP</prop>
+        <prop type="ipc">F28F   9/02        20060101AFI20170131BHEP</prop>
+        <prop type="ipc-group">F28</prop>
+        <prop type="ipc-group">IV</prop>
+        <prop type="source-document">EP-3070426-B1</prop>
+        <prop type="tokenCount">15</prop>
+        <seg>Werden derartige Schäden nicht unmittelbar bemerkt, kann es zu sehr hohen Folgeschäden kommen.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-09927183-B2</prop>
+        <prop type="tokenCount">15</prop>
+        <seg>If such damage is not noticed, immediately very high consequential damage can occur.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37" datatype="Text">
+      <prop type="bifixer-hash">000029dee72ca299</prop>
+      <prop type="bifixer-rank">94.24</prop>
+      <prop type="ratio">0.959</prop>
+      <prop type="score-bicleaner">0.715</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">B60H   1/00        20060101ALI20090428BHEP</prop>
+        <prop type="ipc">B60N   2/56        20060101AFI20090428BHEP</prop>
+        <prop type="ipc-group">B60</prop>
+        <prop type="ipc-group">IV</prop>
+        <prop type="source-document">EP-2082920-A1</prop>
+        <prop type="tokenCount">35</prop>
+        <seg>Zu diesem Zweck kann die Steuereinheit 2 über Anschluss 4 ein Signal empfangen, das Auskunft über die Stärke des Luftstroms gibt und vom Gebläse oder von einer anderen Komponente des Fahrzeugs abgegeben wird.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-08417416-B2</prop>
+        <prop type="tokenCount">42</prop>
+        <seg>For this purpose, the control unit 2 can receive via the terminal 4 a signal which provides information on the intensity of the air current and which is emitted by the blower or by some other component of the vehicle.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38" datatype="Text">
+      <prop type="bifixer-hash">00002b8b6e3c2ba9</prop>
+      <prop type="bifixer-rank">95.37</prop>
+      <prop type="ratio">0.872</prop>
+      <prop type="score-bicleaner">0.385</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">G11C  14/00        20060101AFI20060921BHEP</prop>
+        <prop type="ipc-group">G11C</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-1794758-B1</prop>
+        <prop type="tokenCount">20</prop>
+        <seg>Der Transistor mit dem positiv geladenen Floating-Gate leitet nicht, der Transistor mit dem negativ geladenen Floating-Gate ist leitend.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-07602640-B2</prop>
+        <prop type="tokenCount">24</prop>
+        <seg>The transistor having the positively charged floating gate does not conduct, while the transistor having the negatively charged floating gate is conducting.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39" datatype="Text">
+      <prop type="bifixer-hash">00002bceb497a97c</prop>
+      <prop type="bifixer-rank">96.48</prop>
+      <prop type="ratio">0.895</prop>
+      <prop type="score-bicleaner">0.515</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">6D 06F  39/00   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0649931-A1</prop>
+        <prop type="tokenCount">13</prop>
+        <seg>Aus dieser Leistungsbestimmung ist wiederum auf das Bremsmoment an der Trommel rückschließbar.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-05507054</prop>
+        <prop type="tokenCount">20</prop>
+        <seg>From this capacity determination, a conclusion can in turn be drawn about the braking moment at the drum.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40" datatype="Text">
+      <prop type="bifixer-hash">00002bda7bdb7b10</prop>
+      <prop type="bifixer-rank">95.3</prop>
+      <prop type="ratio">1.145</prop>
+      <prop type="score-bicleaner">0.843</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">C07C  15/20        20060101AFI20151117BHEP</prop>
+        <prop type="ipc">C09K  11/06        20060101ALI20151117BHEP</prop>
+        <prop type="ipc">H05B  33/20        20060101ALI20151117BHEP</prop>
+        <prop type="ipc-group">C</prop>
+        <prop type="ipc-group">H</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="ipc-group">III</prop>
+        <prop type="source-document">EP-3140268-B1</prop>
+        <prop type="tokenCount">19</prop>
+        <seg>Ein weiterer Gegenstand der vorliegenden Erfindung ist die Verwendung der Farbkonverter zur Konversion von durch LEDs erzeugtem Licht.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-09919999-B2</prop>
+        <prop type="tokenCount">20</prop>
+        <seg>The present invention further provides for the use of the color converters for conversion of light generated by LEDs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41" datatype="Text">
+      <prop type="bifixer-hash">00002c72eda35d8e</prop>
+      <prop type="bifixer-rank">93.32</prop>
+      <prop type="ratio">1.229</prop>
+      <prop type="score-bicleaner">0.743</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">6B 65H   5/00   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0738680-A2</prop>
+        <prop type="tokenCount">74</prop>
+        <seg>Diese Verbindungen können auch durch "kapazitives Koppeln" hergestellt werden, wobei Ladungen in das Niederhaltegitter induziert werden, und zwar durch die Verschiebung von Elektronen und elektronenfreien Stellen (Löchern) mittels Kondensatorplatten (nicht gezeigt), die sich in nächster Nähe des Gitters an einer geeigneten Stelle, z.B. am Ende der Bandschlaufe, wo diese sich um die Walze 12 oder 13 dreht, befinden.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-05960936</prop>
+        <prop type="tokenCount">65</prop>
+        <seg>Those connections can also be achieved by "capacitive coupling", whereby charges are induced into the hold down grid by the displacement of electrons and holes using capacitor plates (not shown) located in close proximity to the grid at some convenient location such as at the end of the belt loop where it turns around the roller 12 or 13.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42" datatype="Text">
+      <prop type="bifixer-hash">00002d4c5964005b</prop>
+      <prop type="bifixer-rank">93.55</prop>
+      <prop type="ratio">0.972</prop>
+      <prop type="score-bicleaner">0.640</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">4A 01N  43/653  B</prop>
+        <prop type="ipc">4C 07D 249/08   A</prop>
+        <prop type="ipc">4C 07D 317/16   B</prop>
+        <prop type="ipc">4C 07D 405/06   B</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-0228343-A2</prop>
+        <prop type="tokenCount">22</prop>
+        <seg>Ca. 8 cm hohe Gerstenpflanzen werden mit einer aus Spritzpulver des Wirkstoffes hergestellten Spritzbrühe (0,02 % Aktivsubstanz) besprüht.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-04853399</prop>
+        <prop type="tokenCount">28</prop>
+        <seg>Barley plants about 8 cm in height were sprayed with a spray mixture (0.02%) prepared from a wettable powder formulation of the test compound.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43" datatype="Text">
+      <prop type="bifixer-hash">00002e0f78a0ad7e</prop>
+      <prop type="bifixer-rank">100.18</prop>
+      <prop type="ratio">1.264</prop>
+      <prop type="score-bicleaner">0.660</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">A61K   8/04        20060101AFI20140801BHEP</prop>
+        <prop type="ipc">A61K   8/22        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">A61K   8/49        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">A61Q   5/04        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">A61Q   5/08        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">A61Q   5/10        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">C01B  15/037       20060101ALI20140801BHEP</prop>
+        <prop type="ipc">C01B  15/08        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">C01B  15/12        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">C07D 213/89        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">C11D   3/28        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">C11D   3/32        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">C11D   3/39        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">C11D   7/32        20060101ALI20140801BHEP</prop>
+        <prop type="ipc">D06L   3/02        20060101ALI20140801BHEP</prop>
+        <prop type="ipc-group">A61K</prop>
+        <prop type="ipc-group">A61Q</prop>
+        <prop type="ipc-group">C</prop>
+        <prop type="ipc-group">D06L</prop>
+        <prop type="ipc-group">III</prop>
+        <prop type="source-document">EP-2651816-B1</prop>
+        <prop type="tokenCount">15</prop>
+        <seg>Die erfindungsgemäßen Zusammensetzungen sind in vorteilhafter Weise zur Reduzierung der Haarschädigung in Haarfärbeformulierungen geeignet.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-09592185-B2</prop>
+        <prop type="tokenCount">15</prop>
+        <seg>The inventive compositions are advantageously suitable for reducing hair damage in hair coloring formulations.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44" datatype="Text">
+      <prop type="bifixer-hash">00002e684c4fe622</prop>
+      <prop type="bifixer-rank">92.88</prop>
+      <prop type="ratio">0.948</prop>
+      <prop type="score-bicleaner">0.830</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">G01B  11/14        20060101ALI20180704BHEP</prop>
+        <prop type="ipc">G01B  11/275       20060101AFI20180704BHEP</prop>
+        <prop type="ipc-group">G01</prop>
+        <prop type="ipc-group">II</prop>
+        <prop type="source-document">EP-2539117-B1</prop>
+        <prop type="tokenCount">37</prop>
+        <seg>In einem weiteren Ausführungsbeispiel wird die Bestimmung der Punktes P aus den Grauwertbildern 101, 102 mit der Bestimmung aus der 3D-Punktwolke kombiniert und so die Robustheit und/oder Genauigkeit des Verfahrens noch weiter verbessert.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-09188439-B2</prop>
+        <prop type="tokenCount">49</prop>
+        <seg>In a further exemplary embodiment, the determination of the point P from the grayscale images 101, 102 is combined with the determination from the 3-D cloud diagram and in this way the robustness and/or accuracy of the method is improved even further.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45" datatype="Text">
+      <prop type="bifixer-hash">00002e90318ccc40</prop>
+      <prop type="bifixer-rank">95.99</prop>
+      <prop type="ratio">1.092</prop>
+      <prop type="score-bicleaner">0.835</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">B60R  11/04        20060101AFI20100331BHEP</prop>
+        <prop type="ipc-group">B60</prop>
+        <prop type="ipc-group">IV</prop>
+        <prop type="source-document">EP-2334515-B1</prop>
+        <prop type="tokenCount">36</prop>
+        <seg>In Parkstellung des Kraftfahrzeuges, das bedeutet, wenn der Benutzer das Kraftfahrzeug verlassen und verriegelt hat, befindet sich das Schutzelement in seiner Schließstellung, wodurch das Betätigungselement und die Kamera zuverlässig geschützt sind.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-09821727-B2</prop>
+        <prop type="tokenCount">42</prop>
+        <seg>In the parked position of the vehicle, which means when the user has left the vehicle and locked it, the protective element is situated in its closed position so that the activation element and the camera are reliably protected.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46" datatype="Text">
+      <prop type="bifixer-hash">00002f045f80e3eb</prop>
+      <prop type="bifixer-rank">96.63</prop>
+      <prop type="ratio">1.220</prop>
+      <prop type="score-bicleaner">0.818</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">7C 11D  17/04   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-1586631-A2</prop>
+        <prop type="tokenCount">27</prop>
+        <seg>Diese Technologie beinhaltet die Möglichkeit, die Rezeptur des in Schritt ii) eingefüllten Wasch- oder Reinigungsmittels zu ändern, ohne das Verfahren adaptieren zu müssen.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-07601679-B2</prop>
+        <prop type="tokenCount">24</prop>
+        <seg>This technology includes the possibility of altering the formula of the detergent introduced in step ii) without having to adapt the process.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47" datatype="Text">
+      <prop type="bifixer-hash">00002faa3cc4835d</prop>
+      <prop type="bifixer-rank">95.48</prop>
+      <prop type="ratio">0.948</prop>
+      <prop type="score-bicleaner">0.693</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">G01H  11/02        20060101ALI20130524BHEP</prop>
+        <prop type="ipc">G10K   9/13        20060101AFI20130524BHEP</prop>
+        <prop type="ipc-group">G01</prop>
+        <prop type="ipc-group">G10K</prop>
+        <prop type="ipc-group">II</prop>
+        <prop type="ipc-group">V</prop>
+        <prop type="source-document">EP-2209110-B1</prop>
+        <prop type="tokenCount">42</prop>
+        <seg>In einer Weiterbildung der Erfindung ist das Tragelement als Bodenplatte, vorzugsweise als Membran eines die Spulenaufnahme und die Magnetaufnahme aufnehmenden topfförmigen Gehäuses ausgebildet, wobei je nach Ausführung entweder die Spulenaufnahme oder die Magnetaufnahme fest mit dem Gehäuse verbunden ist.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="source-document">US-08316715-B2</prop>
+        <prop type="tokenCount">56</prop>
+        <seg>In a further development of the invention, the carrying element is designed as a bottom plate, preferably as a membrane of a pot-shaped housing acconunodating the coil receptacle and the magnet receptacle, with either the coil receptacle or the magnet receptacle being firmly attached to the housing, depending on the model.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48" datatype="Text">
+      <prop type="bifixer-hash">00002fc93138ccbb</prop>
+      <prop type="bifixer-rank">96.26</prop>
+      <prop type="ratio">0.800</prop>
+      <prop type="score-bicleaner">0.420</prop>
+      <tuv xml:lang="de">
+        <prop type="ipc">7A 47J  31/54   B</prop>
+        <prop type="ipc">7A 47J  31/58   A</prop>
+        <prop type="ipc-group">I</prop>
+        <prop type="source-document">EP-1112711-A1</prop>
+        <prop type="tokenCount">14</prop>
+        <seg>Bei dieser Positionierung kann Restwasser aus den Kammern der Differenzdruckdose unter Schwerkraftwirkung abfließen.</seg>

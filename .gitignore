@@ -1,0 +1,5 @@
+/.env
+*.csv
+*.tmx
+/model_output
+/.venv
