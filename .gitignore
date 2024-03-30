@@ -1,5 +1,7 @@
+/datasets
 /.env
-*.csv
-*.tmx
 /model_output
+/notes
 /.venv
+
+output*.txt

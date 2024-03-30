@@ -13,22 +13,8 @@ from transformers import (
 from tqdm import tqdm
 from utils import relative_path
 import evaluate
+import os
 import torch
-
-
-# Example of using multilingual tokenizer for NLLB
-
-# from transformers import NllbTokenizerFast
-
-# tokenizer = NllbTokenizerFast.from_pretrained(
-#     "facebook/nllb-200-distilled-600M", src_lang="eng_Latn", tgt_lang="fra_Latn"
-# )
-# example_english_phrase = " UN Chief Says There Is No Military Solution in Syria"
-# expected_translation_french = "Le chef de l'ONU affirme qu'il n'y a pas de solution militaire en Syrie."
-# inputs = tokenizer(example_english_phrase, return_tensors="pt")
-# with tokenizer.as_target_tokenizer():
-#     labels = tokenizer(expected_translation_french, return_tensors="pt")
-# inputs["labels"] = labels["input_ids"]
 
 
 def print_sample(model, tokenizer, tgt_lang):
@@ -81,7 +67,6 @@ def tokenize_function_generic(
 
 
 def compute_metrics_generic(tokenizer, metrics_list, eval_preds):
-    # print("compute metrics bypassed due to bug")
     metric = evaluate.load(*metrics_list)
 
     predictions, references = eval_preds
@@ -140,15 +125,9 @@ def evaluate_only(compute_metrics, eval_dataset, model, max_new_tokens, pad_toke
     return compute_metrics(eval_preds)
 
 
-# TODO: See: https://stackoverflow.com/questions/67958756/how-do-i-check-if-a-tokenizer-model-is-already-saved
-# for a description of how to check filepath and decide to use model_dir automatically without explicit
-# parameter use_model_dir
-
-
 def load_primary_components(
     model_name=None,
     model_dir=None,
-    use_model_dir=False,
     max_sequence_length=None,
     dataset_filepath=None,
     metrics_list=None,
@@ -156,13 +135,18 @@ def load_primary_components(
     tokenizer_kwargs={},
     model_kwargs={},
 ):
+
     dataset = get_split_dataset(dataset_filepath)
     tokenizer = AutoTokenizer.from_pretrained(
         model_name, token=token, **tokenizer_kwargs
     )
+
+    using_checkpoint = model_dir is not None and os.path.isfile(
+        os.path.join(model_dir, "model.safetensors")
+    )
     model = (
         AutoModelForSeq2SeqLM.from_pretrained(model_dir, token=token, **model_kwargs)
-        if use_model_dir
+        if using_checkpoint
         else AutoModelForSeq2SeqLM.from_pretrained(
             model_name, token=token, **model_kwargs
         )
@@ -174,7 +158,7 @@ def load_primary_components(
         max_length=max_sequence_length,
     )
     compute_metrics = partial(compute_metrics_generic, tokenizer, metrics_list)
-    return dataset, tokenizer, model, data_collator, compute_metrics
+    return dataset, tokenizer, model, data_collator, compute_metrics, using_checkpoint
 
 
 def main():
@@ -195,17 +179,17 @@ def main():
     tgt_lang = "deu_Latn"
     tokenization_batch_size = 500
     use_input_prefix = False
-    use_model_dir = False
 
-    dataset, tokenizer, model, data_collator, compute_metrics = load_primary_components(
-        model_name="facebook/nllb-200-distilled-600M",
-        model_dir=model_dir,
-        max_sequence_length=max_sequence_length,
-        dataset_filepath="de-en-europat.csv",
-        metrics_list=["sacrebleu"],
-        use_model_dir=use_model_dir,
-        token=True,
-        tokenizer_kwargs=dict(src_lang=src_lang, tgt_lang=tgt_lang),
+    dataset, tokenizer, model, data_collator, compute_metrics, using_checkpoint = (
+        load_primary_components(
+            model_name="facebook/nllb-200-distilled-600M",
+            model_dir=model_dir,
+            max_sequence_length=max_sequence_length,
+            dataset_filepath="sample-dataset.csv",
+            metrics_list=["sacrebleu"],
+            token=True,
+            tokenizer_kwargs=dict(src_lang=src_lang, tgt_lang=tgt_lang),
+        )
     )
 
     tokenize_function = partial(
@@ -284,9 +268,9 @@ def main():
             compute_metrics=compute_metrics,
         )
 
-        trainer.train(resume_from_checkpoint=True if use_model_dir else False)
+        trainer.train(resume_from_checkpoint=True if using_checkpoint else False)
         # tokenizer.save_pretrained(model_dir)
-        trainer.save_model(model_dir)
+        # trainer.save_model(model_dir)
 
 
 if __name__ == "__main__":
